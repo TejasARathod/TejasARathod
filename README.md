@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tejas Rathod</h1>
-<h3 align="center">A 4th Year Entc Student obsessed with Artificial Intelligence , Machine Learning and Robotics. Other than this you will find me in the gym or playing football.</h3>
+<h3 align="center">An AI Researcher with keen interests in computer vision and deep learning. Other than this you will find me in the gym or playing football.</h3>
 
-- 🔭 I’m currently working on [Forest-Cop-Ter (Agricultural Robot))](https://github.com/TejasARathod/Forest-Cop-Ter)
+- 🔭 I’m currently working on AI for Agriculture and have collaborated with Aston University to learn more about this sector.
 
-- 🌱 I’m currently learning **Deep Learning and the tools required for it.**
+- 🌱 I’m currently learning **Advanced Computer Vision and Mathematics for AI**
 
-- 📫 How to reach me **ajay.tejas.btech2019@sitpune.edu.in**
+- 📫 How to reach me **tejasrathod709@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
