@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **Physics Informed Neural Networks & Computer Vision**
 
-- 👨‍💻 All of my projects are available at [https://tejasarathod.github.io/tejasWebsite/](https://tejasarathod.github.io/tejasWebsite/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://tejasarathod.github.io/tejasWebsite/)
 
 - 📫 How to reach me **tejasrathod709@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tnEYpyZLuCd0T2OQw-ffWtcGgE_AlloR/view?usp=sharing](https://drive.google.com/file/d/1tnEYpyZLuCd0T2OQw-ffWtcGgE_AlloR/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1tnEYpyZLuCd0T2OQw-ffWtcGgE_AlloR/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
