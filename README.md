@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tejas Rathod</h1>
 <h3 align="center">A passionate Computer Vision Developer & Researcher</h3>
 
-- 🔭 I’m currently working on **automating manufacturing processes through scientific machine learning**
+- 🔭 I’m currently working on **strengthening my fundamentals across Math and Programming**
 
-- 🌱 I’m currently learning **Julia's Scientific Machine Learning**
+- 🌱 I’m currently learning **CUDA**
 
-- 👯 I’m looking to collaborate on **Physics Informed Neural Networks & Computer Vision**
+- 👯 I’m looking to collaborate on **Computer Vision Projects**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://tejasarathod.github.io/tejasWebsite/)
 
